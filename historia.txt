@@ -2,4 +2,6 @@ Esto es la historia de Daniel Rivera.
 
 Daniel Rivera tiene 25 años y nació en Colombia, vive en Tuluá.
 
-Hoy estamos haciendo el curso de git y github profesional en Platzi, hablaremos de su vida.
+Hoy estamos haciendo el curso de git y github profesional en Platzi.
+
+Hablarémos de su vida y su obra maestra.
